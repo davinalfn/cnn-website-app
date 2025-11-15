@@ -1,0 +1,148 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Teknologi AI Terbaru Mengubah Cara Kerja di Indonesia",
+      "category": "Teknologi",
+      "author": "Budi Santoso",
+      "date": "2025-11-15",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "summary": "Perkembangan AI di Indonesia semakin pesat dengan adopsi di berbagai sektor industri.",
+      "content": "Teknologi kecerdasan buatan (AI) kini menjadi bagian integral dari transformasi digital di Indonesia. Berbagai perusahaan mulai mengadopsi AI untuk meningkatkan efisiensi operasional mereka. Dari sektor perbankan hingga e-commerce, AI membantu dalam analisis data, customer service, hingga personalisasi pengalaman pengguna. Para ahli memperkirakan adopsi AI di Indonesia akan terus meningkat dalam beberapa tahun ke depan.",
+      "views": 15420,
+      "trending": true
+    },
+    {
+      "id": 2,
+      "title": "Timnas Indonesia Lolos ke Semifinal Piala AFF 2025",
+      "category": "Olahraga",
+      "author": "Andi Wijaya",
+      "date": "2025-11-14",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=800",
+      "summary": "Kemenangan dramatis membawa Timnas Indonesia melaju ke semifinal.",
+      "content": "Timnas Indonesia berhasil meraih kemenangan dramatis dengan skor 2-1 atas Thailand dalam pertandingan perempat final Piala AFF 2025. Gol kemenangan dicetak oleh striker andalan pada menit ke-89 yang membuat stadion penuh sesak penonton bergemuruh. Pelatih tim nasional menyatakan kebanggaannya atas perjuangan para pemain. Semifinal akan digelar minggu depan melawan Vietnam.",
+      "views": 28350,
+      "trending": true
+    },
+    {
+      "id": 3,
+      "title": "Film Indonesia Raih Penghargaan di Festival Cannes",
+      "category": "Hiburan",
+      "author": "Siti Nurhaliza",
+      "date": "2025-11-14",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800",
+      "summary": "Prestasi membanggakan film Indonesia di kancah internasional.",
+      "content": "Sebuah film Indonesia berhasil meraih penghargaan bergengsi di Festival Film Cannes 2025. Film yang disutradarai oleh sutradara muda Indonesia ini mendapat standing ovation selama 10 menit dari para penonton. Penghargaan ini menjadi bukti bahwa industri perfilman Indonesia terus berkembang dan mendapat pengakuan di tingkat internasional. Sutradara menyampaikan terima kasih kepada seluruh tim produksi.",
+      "views": 12890,
+      "trending": true
+    },
+    {
+      "id": 4,
+      "title": "Kebijakan Baru Pemerintah untuk Mendorong Investasi",
+      "category": "Politik",
+      "author": "Ahmad Dahlan",
+      "date": "2025-11-13",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "summary": "Pemerintah meluncurkan paket kebijakan baru untuk menarik investor asing.",
+      "content": "Pemerintah Indonesia mengumumkan serangkaian kebijakan baru yang bertujuan untuk meningkatkan investasi asing di tanah air. Kebijakan ini meliputi penyederhanaan perizinan, insentif pajak, dan kemudahan berusaha. Menteri Koordinator Bidang Perekonomian menyatakan bahwa kebijakan ini diharapkan dapat menciptakan lebih banyak lapangan kerja dan mendorong pertumbuhan ekonomi nasional. Para pelaku industri menyambut positif langkah pemerintah ini.",
+      "views": 9560,
+      "trending": false
+    },
+    {
+      "id": 5,
+      "title": "Startup Indonesia Raih Pendanaan USD 50 Juta",
+      "category": "Bisnis",
+      "author": "Dewi Lestari",
+      "date": "2025-11-13",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800",
+      "summary": "Startup teknologi finansial Indonesia berhasil menarik investor global.",
+      "content": "Sebuah startup fintech Indonesia berhasil meraih pendanaan Seri C senilai USD 50 juta dari konsorsium investor internasional. Dana ini akan digunakan untuk ekspansi ke negara-negara Asia Tenggara lainnya dan pengembangan produk baru. CEO startup tersebut menyatakan optimisme terhadap prospek pertumbuhan ekonomi digital di kawasan. Pendanaan ini menunjukkan kepercayaan investor terhadap ekosistem startup Indonesia.",
+      "views": 11230,
+      "trending": false
+    },
+    {
+      "id": 6,
+      "title": "Konser Musik Terbesar Tahun Ini Digelar di Jakarta",
+      "category": "Hiburan",
+      "author": "Rudi Hartono",
+      "date": "2025-11-12",
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+      "summary": "Festival musik internasional hadirkan deretan artis ternama.",
+      "content": "Festival musik internasional terbesar tahun ini akan digelar di Jakarta bulan depan dengan menghadirkan lebih dari 50 artis dari berbagai negara. Event yang digelar selama tiga hari ini diperkirakan akan dihadiri oleh lebih dari 100 ribu pengunjung. Promotor acara menjanjikan pengalaman musik yang tak terlupakan dengan teknologi panggung terkini. Tiket sudah mulai dijual dan mendapat respons antusias dari masyarakat.",
+      "views": 18750,
+      "trending": true
+    },
+    {
+      "id": 7,
+      "title": "Penelitian Baru: Manfaat Kopi untuk Kesehatan Jantung",
+      "category": "Kesehatan",
+      "author": "Dr. Fitri Handayani",
+      "date": "2025-11-12",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800",
+      "summary": "Studi terbaru ungkap konsumsi kopi moderat baik untuk jantung.",
+      "content": "Penelitian terbaru yang dipublikasikan dalam jurnal kesehatan internasional menunjukkan bahwa konsumsi kopi dalam jumlah moderat dapat memberikan manfaat bagi kesehatan jantung. Studi yang melibatkan ribuan partisipan ini menemukan bahwa orang yang minum 2-3 cangkir kopi per hari memiliki risiko penyakit jantung lebih rendah. Namun, para peneliti mengingatkan untuk tidak berlebihan dalam konsumsi kafein.",
+      "views": 14560,
+      "trending": false
+    },
+    {
+      "id": 8,
+      "title": "Atlet Indonesia Pecahkan Rekor SEA Games",
+      "category": "Olahraga",
+      "author": "Bambang Susilo",
+      "date": "2025-11-11",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "summary": "Prestasi gemilang atlet renang Indonesia di ajang regional.",
+      "content": "Atlet renang Indonesia berhasil memecahkan rekor SEA Games yang sudah bertahan selama 15 tahun. Dalam nomor 100 meter gaya bebas, atlet berusia 22 tahun ini mencatat waktu yang mencengangkan dan meraih medali emas. Pelatih nasional menyatakan kebanggaannya dan optimis atlet ini bisa bersaing di tingkat Asia. Prestasi ini memberikan harapan baru bagi perkembangan olahraga renang Indonesia.",
+      "views": 22140,
+      "trending": true
+    },
+    {
+      "id": 9,
+      "title": "Inovasi Energi Terbarukan di Indonesia Timur",
+      "category": "Teknologi",
+      "author": "Indra Gunawan",
+      "date": "2025-11-11",
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800",
+      "summary": "Proyek energi surya terbesar di kawasan timur Indonesia mulai beroperasi.",
+      "content": "Pembangkit listrik tenaga surya terbesar di kawasan Indonesia Timur resmi beroperasi hari ini. Proyek senilai ratusan miliar rupiah ini diharapkan dapat memenuhi kebutuhan listrik ribuan rumah tangga dan mengurangi ketergantungan pada energi fosil. Pemerintah daerah berkomitmen untuk terus mengembangkan energi terbarukan sebagai solusi jangka panjang. Proyek ini juga menciptakan lapangan kerja baru bagi masyarakat lokal.",
+      "views": 8920,
+      "trending": false
+    },
+    {
+      "id": 10,
+      "title": "Tren Fashion Berkelanjutan Makin Diminati Generasi Muda",
+      "category": "Gaya Hidup",
+      "author": "Maya Kusuma",
+      "date": "2025-11-10",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800",
+      "summary": "Kesadaran lingkungan mendorong perubahan di industri fashion.",
+      "content": "Industri fashion Indonesia mulai beralih ke praktik yang lebih berkelanjutan seiring meningkatnya kesadaran lingkungan di kalangan konsumen muda. Brand-brand lokal kini menawarkan produk dari bahan daur ulang dan ramah lingkungan. Para desainer fashion juga mulai mengedukasi konsumen tentang pentingnya fashion berkelanjutan. Tren ini diprediksi akan terus berkembang dalam beberapa tahun mendatang.",
+      "views": 10450,
+      "trending": false
+    },
+    {
+      "id": 11,
+      "title": "Kuliner Nusantara Masuk Daftar Warisan Budaya UNESCO",
+      "category": "Kuliner",
+      "author": "Chef William Wongso",
+      "date": "2025-11-10",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "summary": "Pengakuan internasional untuk kekayaan kuliner Indonesia.",
+      "content": "UNESCO resmi memasukkan beberapa kuliner tradisional Indonesia ke dalam daftar warisan budaya takbenda dunia. Keputusan ini diambil setelah melalui proses evaluasi yang panjang. Para koki dan pelaku industri kuliner menyambut gembira pengakuan ini. Pemerintah berencana untuk lebih mempromosikan kuliner Indonesia di kancah internasional melalui berbagai program gastronomi diplomacy.",
+      "views": 16780,
+      "trending": true
+    },
+    {
+      "id": 12,
+      "title": "Program Beasiswa Pemerintah untuk Mahasiswa Berprestasi",
+      "category": "Pendidikan",
+      "author": "Prof. Ani Suryani",
+      "date": "2025-11-09",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800",
+      "summary": "Ribuan beasiswa ditawarkan untuk melanjutkan studi ke luar negeri.",
+      "content": "Kementerian Pendidikan mengumumkan program beasiswa baru untuk mahasiswa berprestasi yang ingin melanjutkan studi ke universitas-universitas terkemuka di luar negeri. Program ini menyediakan ribuan beasiswa penuh termasuk biaya hidup. Pendaftaran dibuka mulai bulan depan dengan persyaratan akademik yang ketat. Pemerintah berharap para penerima beasiswa dapat berkontribusi bagi kemajuan bangsa setelah menyelesaikan studi.",
+      "views": 19230,
+      "trending": false
+    }
+  ]
+}
