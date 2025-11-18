@@ -1,38 +1,46 @@
-# berita-app
+Website berita Single Page Application (SPA) menggunakan Vue.js 3.
 
-This template should help get you started developing with Vue 3 in Vite.
+ Demo
 
-## Recommended IDE Setup
+Live Website: https://davinalfn.github.io/cnn-website-app/
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Recommended Browser Setup
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+ Fitur
 
-## Customize configuration
+- Single Page Application (tidak reload halaman)
+- Filter berita berdasarkan kategori
+- Pencarian berita
+- Halaman detail berita
+- Responsive design (mobile & desktop)
+- Badge trending untuk berita populer
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+ Tools
 
-## Project Setup
+- Vue.js 3
+- Vue Router
+- Vite
+- GitHub Pages
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
+Struktur Project
 
-```sh
-npm run dev
-```
+berita-app/
+├── public/
+│   └── news-data.json       # Data berita
+├── src/
+│   ├── components/          # Komponen Vue
+│   ├── views/               # Halaman utama & detail
+│   ├── router/              # Konfigurasi routing
+│   ├── App.vue
+│   └── main.js
+└── package.json
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+## 👨‍💻 Author
+
+**Nama Anda**  
+GitHub: [@davinalfn](https://github.com/davinalfn)
+
+DAVIN ALIFIAN NURINDRA
+41122100081
