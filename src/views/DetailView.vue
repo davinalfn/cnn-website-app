@@ -63,7 +63,7 @@ export default {
   methods: {
     async loadNews() {
       try {
-        const response = await fetch('/news-data.json');
+         const response = await fetch(`${import.meta.env.BASE_URL}news-data.json`);
         const data = await response.json();
         this.allNews = data.news;
         
